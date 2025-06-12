@@ -35,3 +35,6 @@ variable "bucket_name" {
   description = "Name of the Cloud Storage bucket (must be globally unique)"
   type        = string
 }
+
+
+added new one variable
